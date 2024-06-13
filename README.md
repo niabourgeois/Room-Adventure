@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Developed an engaging word-based game in Python, showcasing my proficiency in the language while delivering an immersive gaming experience. This project reflects my commitment to encoporate creativity in Python programming.
+Developed an engaging word-based game in Python, showcasing my proficiency in the language while delivering an immersive gaming experience. This project reflects my commitment to incorporate creativity in Python programming.
 
 
 <br />
@@ -15,7 +15,7 @@ Developed an engaging word-based game in Python, showcasing my proficiency in th
 
 <h2>Environments Used </h2>
 
-- <b>Python IDLE</b> (21H2)
+- <b>Python IDLE</b> 
 
 
 <!--
